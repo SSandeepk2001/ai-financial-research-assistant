@@ -21,7 +21,7 @@ The project demonstrates practical software-engineering capabilities across **ba
 
 ## Architecture
 
-```mermaid
+mermaid
 flowchart LR
     UI[Web UI<br/>HTML / CSS / JavaScript] --> API[FastAPI REST API]
     API --> RAG[RAG Service]
